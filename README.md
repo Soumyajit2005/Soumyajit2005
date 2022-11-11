@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyajit2005&show_icons=true&locale=en" alt="soumyajit2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit2005&" alt="soumyajit2005" /></p> 
+[![@soumyajit2005's Holopin board](https://holopin.me/soumyajit2005)](https://holopin.io/@soumyajit2005)
+
