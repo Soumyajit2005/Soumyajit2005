@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Tutoriex Website](https://github.com/Soumyajit2005/Tutoriex-Website.git)
+- 🔭 I’m currently working on [Udayaam Website](https://udayaam.in/)
 
 - 🌱 I’m currently learning **React Js, Python, Android Studio.**
 
