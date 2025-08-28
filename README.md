@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Udayaam](https://github.com/ANKIT-BISWAS-20/Udayam-Frontend)
 
-- 🌱 I’m currently learning **React Js, Python, Android Studio.**
+- 🌱 I’m currently learning **React Js, Next Js, Python, Android Studio.**
 
 - 👨‍💻 All of my projects are available at [https://soumyajitpariaportfolio.netlify.app/](https://soumyajitpariaportfolio.netlify.app/)
 
